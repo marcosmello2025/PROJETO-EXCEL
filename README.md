@@ -5,12 +5,6 @@ Este projeto é uma calculadora financeira desenvolvida em Excel. Ela permite re
 ## Funcionalidades
 - Cálculo de PATRIMONIO ACUMULADO	
 - Cálculo de DIVIDENDOS MENSAIS	
-
-
-- Cálculo de amortização de empréstimos
-- Cálculo de valor presente e futuro
-- Tabelas e gráficos para visualização dos resultados
-
 ## Requisitos
 - Microsoft Excel 2016 ou superior
 
@@ -28,12 +22,6 @@ Se você deseja contribuir para este projeto, siga os passos abaixo:
 3. Faça as alterações necessárias e commit (`git commit -am 'Adiciona nova funcionalidade'`).
 4. Envie para a branch principal (`git push origin minha-nova-funcionalidade`).
 5. Abra um Pull Request.
-
-## Licença
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## Contato
-Para dúvidas ou sugestões, entre em contato pelo e-mail: seu-email@exemplo.com.
 
 ```
 
